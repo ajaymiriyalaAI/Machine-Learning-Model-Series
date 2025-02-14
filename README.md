@@ -1,5 +1,5 @@
 PROBLEM STATEMENT:- We have a dataset which consists of features of ROCKS and MINES which is available in kaggle(contains 208 rows or features of objects Rock and Mine. 
-                    Use Linear Regression Model to predict where the given input data is a ROCK OR MINE
+                    Use Logistic Regression Model to predict where the given input data is a ROCK OR MINE
 
 In this Project, We build a Machine Learning model which helps us predict whether the object is Rock or Mine.
 
@@ -13,7 +13,7 @@ STEPS TO DO :
 
 --> 4. SPLIT OUR DATA FOR TRAINING AND TESTING.
 
---> 5. FIT THESE TRAINED DATA INTO OUR LINEAR REGRESSION MODEL.
+--> 5. FIT THESE TRAINED DATA INTO OUR LOGISTIC REGRESSION MODEL.
 
 --> 6. NOW FIND THE ACCURACY OF OUR MODEL WITH BOTH TRAINED AND TESTED DATA.
 
